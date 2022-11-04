@@ -63,6 +63,9 @@ a {
   
   border-radius: 10px;
 }
+.greetings{
+  text-align:center;
+}
 .link span {
   width: 80%;
   text-align: center;
